@@ -1,0 +1,6 @@
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\yako1220\RiderProjects\Laba3\ClassLibrary\obj\Debug\ClassLibrary.pdb

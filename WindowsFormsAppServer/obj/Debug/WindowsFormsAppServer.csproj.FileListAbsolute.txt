@@ -1,0 +1,10 @@
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\bin\Debug\WindowsFormsAppServer.exe.config
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\bin\Debug\WindowsFormsAppServer.exe
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\bin\Debug\WindowsFormsAppServer.pdb
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsAppServer.csprojAssemblyReference.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsAppServer.csproj.GenerateResource.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsAppServer.csproj.CoreCompileInputs.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsAppServer.exe
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppServer\obj\Debug\WindowsFormsAppServer.pdb

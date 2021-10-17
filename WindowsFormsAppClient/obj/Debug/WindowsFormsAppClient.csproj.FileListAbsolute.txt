@@ -1,0 +1,9 @@
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.exe.config
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.exe
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.pdb
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csprojAssemblyReference.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.Properties.Resources.resources
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.GenerateResource.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.CoreCompileInputs.cache
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.exe
+C:\Users\yako1220\RiderProjects\Laba3\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.pdb
